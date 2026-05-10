@@ -1,6 +1,6 @@
 # Migration WebApp → Flutter Skill
 
-[![skills.sh](https://skills.sh/b/SenasDev/migration-webapp-to-flutter)](https://skills.sh/SenasDev/migration-webapp-to-flutter)
+[![skills.sh](https://skills.sh/b/senasdev/migration-webapp-to-flutter)](https://skills.sh/senasdev/migration-webapp-to-flutter/migration-webapp-to-flutter)
 
 Skill para agentes de IA que guía migraciones incrementales de una webapp existente a **Flutter nativo**, manteniendo la web operativa mientras se migra feature por feature.
 
@@ -47,7 +47,7 @@ npx skills add SenasDev/migration-webapp-to-flutter --list
 También puedes revisar la ficha en:
 
 ```text
-https://skills.sh/SenasDev/migration-webapp-to-flutter
+https://skills.sh/senasdev/migration-webapp-to-flutter/migration-webapp-to-flutter
 ```
 
 ## Uso

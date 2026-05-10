@@ -34,7 +34,7 @@ npx skills add SenasDev/migration-webapp-to-flutter -g -a codex -y
 
 ## After publishing
 
-- [ ] Visit `https://skills.sh/SenasDev/migration-webapp-to-flutter`.
-- [ ] Confirm badge renders: `https://skills.sh/b/SenasDev/migration-webapp-to-flutter`.
+- [ ] Visit `https://skills.sh/senasdev/migration-webapp-to-flutter/migration-webapp-to-flutter`.
+- [ ] Confirm badge renders: `https://skills.sh/b/senasdev/migration-webapp-to-flutter`.
 - [ ] Test install from a clean directory.
 - [ ] Confirm the detected skill name is `migration-webapp-to-flutter`.
