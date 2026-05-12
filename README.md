@@ -26,22 +26,20 @@ La skill indica al agente que debe:
 
 ## Instalación
 
-Desde GitHub:
-
 ```bash
 npx skills add SenasDev/migration-webapp-to-flutter
+```
+
+Para instalarla globalmente y apuntar a Claude:
+
+```bash
+npx skills add SenasDev/migration-webapp-to-flutter -g -a claude -y
 ```
 
 Para instalarla globalmente y apuntar a Codex:
 
 ```bash
 npx skills add SenasDev/migration-webapp-to-flutter -g -a codex -y
-```
-
-Para comprobar que `skills.sh` detecta la skill:
-
-```bash
-npx skills add SenasDev/migration-webapp-to-flutter --list
 ```
 
 También puedes revisar la ficha en:
